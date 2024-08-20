@@ -6,7 +6,7 @@ The pathtracer makes use of diferent Integrator class files to implement the fou
 * direct.cpp : Direct lighting featuring Multiple Importance Sampling.
 * path.cpp : Indirect lighting using russian roulette method to finish paths using luminance as the probability factor.
 * path_nee : Same as path.cpp but implementing both Direct and Indirect lighting by Next Event Estimation .
-* path_nee_dof : Same version as path_nee_dof with a depth of field effect.
+* path_nee_dof : Same version as path_nee with a depth of field effect.
 
 Some of the results are shown below 
 
